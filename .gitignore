@@ -81,3 +81,5 @@ $RECYCLE.BIN/
 
 # Windows shortcuts
 *.lnk
+Stack_PerformanceAssessment/.vs/Stack_PerformanceAssessment/v15/ipch/AutoPCH/_SFI_20FB7716-EDCC-4D6D-B2D5-4531BFCADA89_-a276e59b/10307_소준호-d25c5a16/10307_소준호.ipch
+*.ipch
